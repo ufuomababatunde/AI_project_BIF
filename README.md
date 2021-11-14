@@ -1,1 +1,1 @@
-# BIF project for Alzheimer's disease
+# BIF project for Alzheimer's Disease
